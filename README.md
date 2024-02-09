@@ -1,4 +1,4 @@
-# LinkedIn ChatGPT Chrome Extension
+# LinkedIn CV-AI - Generator
 
 ![Extension Screenshot](https://github.com/cyber-bytezz/Cover-AI/assets/130319315/185fa506-d66e-4be5-bb50-260ab237d40e)
 
