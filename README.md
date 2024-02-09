@@ -1,6 +1,6 @@
 # LinkedIn ChatGPT Chrome Extension
 
-![Extension Screenshot](public\cv.png)
+![Extension Screenshot](https://github.com/cyber-bytezz/Cover-AI/assets/130319315/185fa506-d66e-4be5-bb50-260ab237d40e)
 
 LinkedIn ChatGPT is a powerful Chrome extension designed to simplify and expedite the cover letter creation process for job seekers. By locally storing your resume and OpenAI API key, this extension automatically generates personalized cover letters tailored to job descriptions found on LinkedIn pages. This saves time and assists in crafting the perfect cover letter for every job application.
 
